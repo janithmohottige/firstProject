@@ -6,3 +6,5 @@ print("Welcome!")
 
 print("This is a new line")
 
+print("Hello world")
+
