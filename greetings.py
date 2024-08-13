@@ -3,4 +3,9 @@ print("Welcome!")
 
 # This is a comment
 
-print("Hello Janith!")
+<<<<<<< Updated upstream
+=======
+
+print("This is a new line")
+
+>>>>>>> Stashed changes
